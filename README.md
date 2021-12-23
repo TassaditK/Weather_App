@@ -20,29 +20,29 @@
 <h2>Evolution of GUI<h2>
 <details>
 <h2> :date: Version 1 : </h2>
-![alt text](./Capture_d_écran_2021-03-06_à_21.57.18.png?raw=true)
+<img src="Capture_d_écran_2021-03-06_à_21.57.18.png"/>
 <h2> :date: Version 2 :</h2>
-![alt text](./fond2.png?raw=true)
+<img src="fond2.png"/>
 <h2> :date: Version 3 :</h2>
-![alt text](./fond3.png?raw=true)
+<img src="fond3.png"/>
 <h2> :date: Version 4 :</h2>
-![alt text](./fond4.png?raw=true)
+<img src="fond4.png"/>
 <h2> 🏆 Final version :</h2>
-![alt text](./fond6.png?raw=true)
+<img src="fond6.png"/>
 
 </details>
 <h1> Demonstration use of the application</h1>
 <h2><h2>
  <details> 
 <h2>Search city </h2>
-![alt text](./searchCity.gif?raw=true)
+<img src="searchCity.gif"/>
 <h2>Add city to favorite </h2>
-![alt text](./favoris__1_.gif?raw=true)
+<img src="favoris__1_.gif"/>
 <h2>Delete city from favorite </h2>
 <h2>Search favorite city </h2>
-![alt text](./searchFavorite.gif?raw=true)
+<img src="searchFavorite.gif"/>
 <h2> Move your mouse to get current hour/min</h2>
-![alt text](./MouseMouvement.gif?raw=true)
+<img src="MouseMouvement.gif"/>
 </details>
 <h1> :bar_chart: Coding stats </h1>
 
